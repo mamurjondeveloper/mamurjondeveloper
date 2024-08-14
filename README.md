@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mamurjondeveloper
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning maths and physics.

@@ -88,16 +88,7 @@ O'zbekiston, Namangan viloyatidan bo'lgan **full-stack dasturchi**man. Kod yozis
 ### 📊 GitHub statistikasi
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mamurjondeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamurjondeveloper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamurjondeveloper&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mamurjondeveloper&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
